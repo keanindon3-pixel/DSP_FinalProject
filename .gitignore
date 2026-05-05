@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Data files (optional - include small test files, exclude large datasets)
+data/raw/*.wav
+data/raw/*.mp3
+*.zip
+*.tar.gz
+
+# Results
+results/
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# MATLAB
+*.asv
+*.m~
